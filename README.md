@@ -15,4 +15,4 @@
 ### Result :
   - Reality dosn't seam to work this way ( maybe it's not the same setup as the documentary )*
 ### What's next ?
-  - Trying again with a geiger counter and a radioactive material in a faraday cage 
+  - Trying again with a geiger counter and a radioactive material for even better random
