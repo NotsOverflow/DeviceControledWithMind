@@ -13,4 +13,6 @@
 ### Expected result :
   - You can force a color by thinking about it
 ### Result :
-  - Reality dosn't seam to work this way ( maybe it's not the same setup as the documentary xD )
+  - Reality dosn't seam to work this way ( maybe it's not the same setup as the documentary )*
+### What's next ?
+  - Trying again with a geiger counter and a radioactive material in a faraday cage 
