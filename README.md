@@ -15,4 +15,4 @@
 ### Result :
   - Reality dosn't seam to work this way ( maybe it's not the same setup as the documentary )
 ### What's next ?
-  - Trying again with a geiger counter and a radioactive material for even better random
+  - Trying again with an [Arduino dosimeter module Geiger Counter](https://www.ebay.com/itm/Arduino-dosimeter-module-Geiger-Counter-RadSens-Radiation-Detector-board-pcb/184495660379) for even better random generator
