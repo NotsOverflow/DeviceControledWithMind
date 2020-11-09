@@ -1,8 +1,10 @@
 # Device Controled Presumably With Mind
 
+**Tryed the experiment from the documentary "Close Encounters of the Fifth Kind" using the following code: [randomizer_test.ino](randomizer_test.ino) and a NodeMCU board ( should work with any arduino )**
+
 ![Randomizer Setup](randomizer_test.gif)
 
-**Tryed the experiment from the documentary "Close Encounters of the Fifth Kind" using the following code: [randomizer_test.ino](randomizer_test.ino) and a NodeMCU board ( should work with any arduino )**
+
 
 ### Hypotesis :
   - you control reality outcome with your mind
